@@ -1,4 +1,4 @@
-## Django REST Framework Complete Authentication API
+## API Authentication using Django REST Framework
 
 ## To Run this Project follow below:
 
